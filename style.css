@@ -288,64 +288,7 @@ label {
   justify-content: center;
 }
 
-@media only screen and (min-width: 1224px) and (max-width: 1590px){ 
-
-  .imag_muheco{
-    width: 1224px;
-    height: 1590px;
-    opacity: 50%;
-    
-  }
-main{
-  height:100%;
-}
-.text-input{
-  top:8rem;
-  left:7.1rem;
-  word-wrap: break-word;
-  } 
-.logo{
-  left:1rem;
-  width:8%;
-}
-.botones-div{
-  top:34.5rem;
-  left:5rem;
-}
-.form-group{
-  left:7.3rem;
-  top:32rem;
-}
-.btn-encriptar,.btn-desencriptar{
-  font-size:24px;
-  height:65px;
-}
-.message-box{
-  top: 1.5rem;
-  height:38rem;
-  left:56rem;
-}
-.message-box-div{
-  padding-top:0rem;
-  height:20rem;
-  padding-left:1rem;
-}
-.message-box-div img{
-  width:18rem;
-  padding-left: 1.5rem;
-}
-.btn-copiar{
-  top:33rem;
-  height:64px;
-  font-size:24px;
-}
-.div-mensaje{
-  width: 20rem;
-  left:2.5rem;
-  word-wrap: break-word;
-}
-
-} 
+ 
 @media only screen and (min-width: 481px) and (max-width: 1023px){ 
 
   .imag_muheco{
